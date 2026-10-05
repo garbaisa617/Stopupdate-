@@ -50,7 +50,7 @@
     "default_title": "127HUB AI"
   },
   "background": {
-    "service_worker": "background.js"
+    "service_worker": "background-entry.js"
   },
   "content_scripts": [
     {
