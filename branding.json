@@ -1,0 +1,10 @@
+{
+  "extensionName": "127HUB AI",
+  "adminTelegram": "lusuferr",
+  "channelTelegram": "lusufer127",
+  "serverUrl": "ai.127hub.com",
+  "secondaryServerUrl": "ai.127hub.com",
+  "switchServerUrl": "https://ai.127hub.com/api/switch",
+  "footerText": "127HUB.COM",
+  "footerLink": "https://127hub.com/"
+}
